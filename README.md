@@ -55,6 +55,7 @@ import (
 	"net/http"
 
 	"github.com/go-chi/chi"
+	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/go-chi/jwtauth"
 )
 
